@@ -104,3 +104,4 @@
 ### Для написания данной инструкции был применён язык разметки Markdown ![Markdown](2022-10-16_16-16-02.png)
 ### Руководство по синтаксису языка Markdown взято [электронного ресурса](https://texterra.ru/blog/ischerpyvayushchaya-shpargalka-po-sintaksisu-razmetki-markdown-na-zametku-avtoram-veb-razrabotchikam.html).
 
+Всем спасибо!
